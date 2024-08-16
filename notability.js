@@ -30,7 +30,7 @@ chxm1023 = {
          "refundedDate" : null,
          "refundedReason" : null,
          "isInBillingRetryPeriod" : false,
-         "expirationDate" : "2099-09-09T09:09:09.000Z",
+         "expirationDate" : "9999-12-31T09:09:09.000Z",
          "gracePeriodExpiresAt" : null,
          "overDeviceLimit" : false,
          "expirationIntent" : null,
